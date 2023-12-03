@@ -1,9 +1,9 @@
 # Keiran Rowan
 
-Hi, I'm Keiran. I'm currently a Lead Application Developer for Collier County Public Schools. My daily driver is Gentoo Linux and I spend most of my time hacking away in Emacs. When I'm at work I mainly use Javascript, PHP, and TSQL. In my personal projects, I prefer to use C, Golang, and Haskell. I love creating open source software and contributing to niche projects. 
+Hi, I'm Keiran. I'm currently a Systems Analyst for Collier County Public Schools. My daily driver is Fedora Linux and I spend most of my time hacking away in Emacs. When I'm at work I am writing COBOL on an IBM i mid-range mainframe. In my personal projects, I prefer to use C, Golang, and Haskell, but I do like to write some GNU COBOL if I get the chance. I love creating open source software and contributing to niche projects. I like working with older technologies and finding ways to get more mileage out of legacy software and hardware.
 
 - 🔭 I’m currently working on building my portfolio.
-- 🌱 I’m currently learning React, Haskell, and Linux Kernel Programming.
+- 🌱 I’m currently learning ILE RPG, REXX, and Linux Kernel Programming.
 - 👯 I’m looking to collaborate on open source software
 - 📫 How to reach me: Links below
 - 😄 Pronouns: He/Him
@@ -17,9 +17,9 @@ Hi, I'm Keiran. I'm currently a Lead Application Developer for Collier County Pu
 
 ## Contact Me
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Personal%20Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Akeiranrowan%40gmail.com)](mailto:keiranrowan@gmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Work%20Email&logo=microsoftexchange&style=social&url=http%3A%2F%2Fmailto%3Arowank%40collierschools.com)](mailto:rowank@collierschools.com)
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkeiranrowan)](https://linkedin.com/in/keiranrowan)
+[![GMAIL](https://img.shields.io/twitter/url?label=Personal%20Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Akeiranrowan%40gmail.com)](mailto:keiranrowan@gmail.com)
+[![WORK EMAIL](https://img.shields.io/twitter/url?label=Work%20Email&logo=microsoftexchange&style=social&url=http%3A%2F%2Fmailto%3Arowank%40collierschools.com)](mailto:rowank@collierschools.com)
+[![LINKEDIN](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkeiranrowan)](https://linkedin.com/in/keiranrowan)
 
 
 <!--
