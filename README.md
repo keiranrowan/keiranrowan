@@ -14,17 +14,3 @@ Hi, I'm Keiran. I'm currently a Systems Analyst for Collier County Public School
 ![github stats](https://github-readme-stats.vercel.app/api?username=keiranrowan&show_icons=true)
 
 [![ViewCount](https://views.whatilearened.today/views/github/keiranrowan/keiranrowan.svg?cache=remove)](#)
-
-## Contact Me
-
-[![GMAIL](https://img.shields.io/twitter/url?label=Personal%20Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Akeiranrowan%40gmail.com)](mailto:keiranrowan@gmail.com)
-[![WORK EMAIL](https://img.shields.io/twitter/url?label=Work%20Email&logo=microsoftexchange&style=social&url=http%3A%2F%2Fmailto%3Arowank%40collierschools.com)](mailto:rowank@collierschools.com)
-[![LINKEDIN](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkeiranrowan)](https://linkedin.com/in/keiranrowan)
-
-
-<!--
-**keiranrowan/keiranrowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
